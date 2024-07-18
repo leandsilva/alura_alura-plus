@@ -1,6 +1,6 @@
 <img align="center">![Front-end-HTML e CSS_ praticando HTML_CSS](https://github.com/user-attachments/assets/67f49354-fbcf-4f66-9fdd-0809a7713278)
 
-## Alura Plus
+<h1>Alura Plus</h1>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-COMPLETO-green"/>
 </p>
